@@ -1,0 +1,11 @@
+* Data Science
+
+** Members
+
+
+| Name  | Affiliation | Title |
+|-----|-----|-----|
+| M. Salathé | [[https://www.epfl.ch/][EPFL Lausanne]] |  An overview of digital epidemiology and its implications |
+| G. Kirchner | [[http://www.rki.de][Robert-Koch-Institute]] | Big Data - Little Literacy |
+
+
